@@ -1,0 +1,34 @@
+header, section, footer {
+		outline: 1px dotted black;
+}
+
+aside {
+  float: right;
+  color: red;
+  font-size: 20pt;
+}
+
+header, footer {
+  text-align: center;
+}
+
+#article img {
+		max-width: 200px;
+		max-height: 200px;
+	}
+
+  #gallery img {
+		max-height: 300px;
+		max-width: 300px;
+    column-span: all;
+	}
+
+  #article {
+    column-count: 3;
+  }
+
+@media all and (max-width: 800px) {
+  #article {
+    column-count: 1;
+    clear:both;
+  }

@@ -1,0 +1,27 @@
+body {
+  width: 700px;
+}
+
+form {
+  display: grid;
+  grid-template-columns: [labels] auto [controls] auto [oversized] auto;
+  grid-auto-flow: row dense;
+}
+
+form > label {
+  grid-column: labels;
+  grid-row: auto;
+}
+
+form > input, form > select, form > textarea {
+  /* Place all controls in the "controls" column and
+     automatically find the next available row. */
+  grid-column: controls;
+  grid-row: auto;
+}
+
+#buttons {
+  grid-row: auto;
+  grid-column: 1 / -1;
+  text-align: end;
+}

@@ -1,0 +1,74 @@
+body {
+  background-image: url("triangular_@2X.png");
+}
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 50px;
+}
+
+.page_header {
+  background-color: rgba(45, 45, 45, 0.95);
+  color: white;
+  width: 100%;
+  float: left;
+  position: fixed;
+  height: 6rem;
+  padding: 1rem;
+}
+
+img {
+  height: 6rem;
+  width: auto;
+  padding-bottom: 1rem;
+  margin-right: 2rem;
+  float: right;
+}
+
+.spacer {
+  width: 100%;
+  height: 8rem;
+}
+
+ul {
+  margin-top: 0.5rem;
+  list-style-type: none;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  color: white;
+  text-decoration: none;
+}
+
+ul li a:visited {
+  color:white;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  color:rgba(45, 45, 45, 0.95);
+  text-decoration: none;
+}
+
+ul li a:active {
+  color:white;
+  text-decoration: none;
+}
+
+li {
+  padding: 1rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+@media all and (max-width: 700px) {
+  .page_header {
+    height: 10rem;
+  }
+
+  .spacer {
+    width: 100%;
+    height: 12rem;
+  }
+}

@@ -1,0 +1,57 @@
+body {
+  background-color: #B3C0FF;
+}
+
+p {
+  padding: 10px;
+}
+
+.mainHeader {
+  float: left;
+  height: 100px;
+  width: 100%;
+}
+
+.mainHeader h1 {
+  font-size: 50px;
+  color: white;
+}
+
+.mainHeader li {
+  display: inline;
+  list-style-type: none;
+}
+
+.leftSection {
+  float: left;
+  width: 50%;
+}
+
+.articleHeader {
+  font-size: 40px;
+  color: white;
+}
+
+.rightSection {
+  width: 50%;
+  float: left;
+}
+
+.rightSection h2 {
+  font-size: 40px;
+  color: white;
+}
+
+.drugiParagraf {
+  float: left;
+  width: 50%;
+}
+
+aside {
+  float: right;
+  width: 40%;
+}
+
+footer {
+  clear: both;
+}

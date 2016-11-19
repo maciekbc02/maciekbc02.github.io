@@ -1,0 +1,27 @@
+table {
+  padding: 0.5rem;
+  font-family: sans-serif;
+  border: none;
+  border-collapse: collapse;
+}
+
+th {
+  width: 120px;
+  text-align: left;
+}
+
+.firstRow > .right {
+  width: 200px;
+}
+
+.firstRow {
+  color: blue;
+}
+
+.secondRow, .fourthRow {
+  background-color: #ccddff;
+}
+
+td, th {
+  padding: 0.6rem;
+}
