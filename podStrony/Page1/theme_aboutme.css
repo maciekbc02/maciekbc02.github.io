@@ -1,0 +1,50 @@
+/* CSS Document */
+
+.about_me {
+	background-image: url(Background2.png);
+	box-sizing: border-box;
+	max-width: 100%;
+	margin: 0 auto;
+	overflow: hidden;
+	position: relative;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+	display: block;
+	height: 100vh;
+}
+
+#about_me_header {
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+	display: block;
+}
+
+#about_ul {
+	list-style-type: none;
+	padding: 0;
+    margin: auto;
+	margin-top: 1rem;
+	display: table;
+}
+
+.about_li {
+	width: auto;
+	display: inline-block;
+	list-style: none;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 20px;
+	list-style-type: none;
+	padding: 1rem;
+	float: left;
+}
+
+.about_li a {
+	text-decoration: none;
+	color: black;
+}
