@@ -48,3 +48,61 @@
 	text-decoration: none;
 	color: black;
 }
+
+#line2 {
+	width: auto;
+	display: inline-block;
+	position: relative;
+}
+
+#about_line {
+	width: auto;
+	color: white;
+}
+
+#jason {
+	display: block;
+	box-sizing: border-box;
+	max-width: 100%;
+	margin: 0 auto;
+	overflow: hidden;
+	position: relative;
+	margin-top: 5rem;
+	padding-bottom: 7rem;
+}
+
+#picture1 {
+	width: 40%;
+	height: auto;
+	margin-left: 10%;
+	float: left;
+	padding-right: 5rem;
+}
+
+#jason p {
+	display: block;
+	display: inline-block;
+	float: right;
+	margin-right: 10%;
+	font-size: 1.3rem;
+	font-family: 'Quicksand', sans-serif;
+	line-height: 200%;
+	padding: 0px;
+}
+
+#scrollDown2 {
+	display: table;
+	box-sizing: border-box;
+	max-width: 100%;
+	margin: 0 auto;
+	overflow: hidden;
+	position: relative;
+}
+
+#scrollDown2 a {
+	color: black;
+	font-size: 1.2rem;
+	font-family: 'Josefin Sans', sans-serif;
+	float: left;
+	padding-bottom: 11.5rem;
+}
