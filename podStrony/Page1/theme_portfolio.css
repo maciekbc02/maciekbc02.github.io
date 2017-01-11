@@ -1,0 +1,84 @@
+/* CSS Document */
+
+.portfolio {
+	background-image: url(Background3.png);
+	box-sizing: border-box;
+	max-width: 100%;
+	margin: 0 auto;
+	overflow: hidden;
+	position: relative;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+	display: block;
+	height: 100vh;
+}
+
+#portfolio_header {
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+	display: block;
+}
+
+#portfolio_ul {
+	list-style-type: none;
+	padding: 0;
+    margin: auto;
+	margin-top: 1rem;
+	display: table;
+}
+
+.portfolio_li {
+	width: auto;
+	display: inline-block;
+	list-style: none;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 20px;
+	list-style-type: none;
+	padding: 1rem;
+	float: left;
+}
+
+.portfolio_li a {
+	text-decoration: none;
+	color: white;
+}
+
+#portfolio_line {
+	width: auto;
+	color: white;
+}
+
+#portfolio_div {
+	list-style-type: none;
+	padding: 0;
+    margin: auto;
+	margin-top: 5rem;
+	display: table;
+}
+
+.portfolio h1 {
+	color: white;
+	font-size: 3rem;
+	font-family: 'Josefin Sans', sans-serif;
+	text-align: center;
+	padding-top: 5rem;
+}
+
+#imagegrid {
+	padding-top: 2rem;
+	font-size: 0;
+	width: 1436px;
+	margin: 0 auto;
+}
+
+#imagegrid img {
+	margin: 40px;
+}
+
+

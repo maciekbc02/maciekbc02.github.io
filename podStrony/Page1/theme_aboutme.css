@@ -74,7 +74,6 @@
 #picture1 {
 	width: 40%;
 	height: auto;
-	margin-left: 10%;
 	float: left;
 	padding-right: 5rem;
 }
@@ -84,6 +83,7 @@
 	display: inline-block;
 	float: right;
 	margin-right: 10%;
+	margin-left: 10%;
 	font-size: 1.3rem;
 	font-family: 'Quicksand', sans-serif;
 	line-height: 200%;
