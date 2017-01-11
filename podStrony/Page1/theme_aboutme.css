@@ -104,5 +104,16 @@
 	font-size: 1.2rem;
 	font-family: 'Josefin Sans', sans-serif;
 	float: left;
-	padding-bottom: 11.5rem;
+}
+
+.arrow_down {
+	display: block;
+	box-sizing: border-box;
+	max-width: 100%;
+	margin: 0 auto;
+	overflow: hidden;
+	margin-top: 1rem;
+	padding-bottom: 50rem;
+	position: relative;
+	text-align: center;
 }

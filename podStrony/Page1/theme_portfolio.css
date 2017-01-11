@@ -58,7 +58,7 @@
 	list-style-type: none;
 	padding: 0;
     margin: auto;
-	margin-top: 5rem;
+	margin-top: 2rem;
 	display: table;
 }
 
@@ -67,18 +67,49 @@
 	font-size: 3rem;
 	font-family: 'Josefin Sans', sans-serif;
 	text-align: center;
-	padding-top: 5rem;
+	padding-top: 3rem;
 }
 
 #imagegrid {
 	padding-top: 2rem;
 	font-size: 0;
-	width: 1436px;
+	width: 1495px;
 	margin: 0 auto;
 }
 
 #imagegrid img {
-	margin: 40px;
+	margin: 10px;
+	margin-top: 10;
 }
+
+#scrollDown3 {
+	display: table;
+	box-sizing: border-box;
+	max-width: 100%;
+	margin: 0 auto;
+	overflow: hidden;
+	position: relative;
+	padding-top: 3rem;
+}
+
+#scrollDown3 a {
+	color: white;
+	font-size: 1.2rem;
+	font-family: 'Josefin Sans', sans-serif;
+	float: left;
+}
+
+.arrow_down {
+	display: block;
+	box-sizing: border-box;
+	max-width: 100%;
+	margin: 0 auto;
+	overflow: hidden;
+	margin-top: 1rem;
+	padding-bottom: 50rem;
+	position: relative;
+	text-align: center;
+}
+
 
 
