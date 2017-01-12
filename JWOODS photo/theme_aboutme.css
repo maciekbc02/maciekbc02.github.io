@@ -1,0 +1,123 @@
+/* CSS Document */
+
+.about_me {
+	background-image: url(Background2.png);
+	box-sizing: border-box;
+	max-width: 100%;
+	margin: 0 auto;
+	overflow: hidden;
+	position: relative;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+	display: block;
+	height: 100vh;
+}
+
+#about_me_header {
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+	display: block;
+}
+
+#about_ul {
+	list-style-type: none;
+	padding: 0;
+    margin: auto;
+	margin-top: 1rem;
+	display: table;
+}
+
+.about_li {
+	width: auto;
+	display: inline-block;
+	list-style: none;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 20px;
+	list-style-type: none;
+	padding: 1rem;
+	float: left;
+}
+
+.about_li a {
+	text-decoration: none;
+	color: black;
+}
+
+.about_li a:hover {
+	text-decoration: underline;
+}
+
+#line2 {
+	width: auto;
+	display: inline-block;
+	position: relative;
+}
+
+#about_line {
+	width: auto;
+	color: white;
+}
+
+#jason {
+	display: block;
+	box-sizing: border-box;
+	max-width: 100%;
+	margin: 0 auto;
+	overflow: hidden;
+	position: relative;
+	margin-top: 5rem;
+	padding-bottom: 7rem;
+}
+
+#picture1 {
+	width: 40%;
+	height: auto;
+	float: left;
+	padding-right: 5rem;
+}
+
+#jason p {
+	display: block;
+	display: inline-block;
+	float: right;
+	margin-right: 10%;
+	margin-left: 10%;
+	font-size: 1.3rem;
+	font-family: 'Quicksand', sans-serif;
+	line-height: 200%;
+	padding: 0px;
+}
+
+#scrollDown2 {
+	display: table;
+	box-sizing: border-box;
+	max-width: 100%;
+	margin: 0 auto;
+	overflow: hidden;
+	position: relative;
+}
+
+#scrollDown2 a {
+	color: black;
+	font-size: 1.2rem;
+	font-family: 'Josefin Sans', sans-serif;
+	float: left;
+}
+
+.arrow_down {
+	display: block;
+	box-sizing: border-box;
+	max-width: 100%;
+	margin: 0 auto;
+	overflow: hidden;
+	margin-top: 1rem;
+	padding-bottom: 50rem;
+	position: relative;
+	text-align: center;
+}

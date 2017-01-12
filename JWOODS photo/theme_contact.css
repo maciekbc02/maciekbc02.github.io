@@ -1,0 +1,161 @@
+/* CSS Document */
+
+.contact {
+	background-image: url(Background4.png);
+	box-sizing: border-box;
+	max-width: 100%;
+	margin: 0 auto;
+	overflow: hidden;
+	position: relative;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+	display: block;
+	height: 100vh;
+}
+
+#contact_header {
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+	display: block;
+}
+
+#contact_ul {
+	list-style-type: none;
+	padding: 0;
+    margin: auto;
+	margin-top: 1rem;
+	display: table;
+}
+
+.contact_li {
+	width: auto;
+	display: inline-block;
+	list-style: none;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 20px;
+	list-style-type: none;
+	padding: 1rem;
+	float: left;
+}
+
+.contact_li a {
+	text-decoration: none;
+	color: black;
+}
+
+.contact_li a:hover {
+	text-decoration: underline;
+}
+
+#container3 {
+	display: block;
+	box-sizing: border-box;
+	max-width: 100%;
+	margin: 0 auto;
+	overflow: hidden;
+	position: relative;
+	margin-top: 12rem;
+	margin-bottom: 0rem;
+	text-align: center;
+}
+
+#container3 a {
+	font-size: 20px;
+	font-weight: bold;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+#container4 {
+	display: block;
+	box-sizing: border-box;
+	max-width: 100%;
+	margin: 0 auto;
+	overflow: hidden;
+	position: relative;
+	margin-top: 1rem;
+	margin-bottom: 0rem;
+	text-align: center;
+}
+
+#container4 a {
+	font-size: 40px;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+#container5 {
+	display: block;
+	box-sizing: border-box;
+	max-width: 100%;
+	margin: 0 auto;
+	overflow: hidden;
+	position: relative;
+	margin-top: 4rem;
+	margin-bottom: 0rem;
+	text-align: center;
+}
+
+#container5 a {
+	font-size: 20px;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+#container6 {
+	display: block;
+	box-sizing: border-box;
+	max-width: 100%;
+	margin: 0 auto;
+	overflow: hidden;
+	position: relative;
+	margin-top: 1rem;
+	margin-bottom: 0rem;
+	text-align: center;
+}
+
+#container6 a {
+	font-size: 40px;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+#container7 {
+	display: block;
+	box-sizing: border-box;
+	max-width: 100%;
+	margin: 0 auto;
+	overflow: hidden;
+	position: relative;
+	margin-top: 4rem;
+	margin-bottom: 0rem;
+	text-align: center;
+}
+
+#container7 a {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 20px;
+}
+
+#container8 {
+	display: block;
+	box-sizing: border-box;
+	max-width: 100%;
+	margin: 0 auto;
+	overflow: hidden;
+	position: relative;
+	margin-top: 1rem;
+	margin-bottom: 0rem;
+	text-align: center;
+}
+
+#container8 img {
+	padding: 0.5rem;
+	margin-top: -0.5rem;
+}
+
+#contact_line2 {
+	margin-top: 12.5rem;
+}

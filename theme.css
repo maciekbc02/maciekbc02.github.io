@@ -1,0 +1,68 @@
+/* CSS Document */
+
+body {
+	background-image: url(pexels-photo-202154.jpg);
+	background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+
+#name {
+	padding-left: 1rem;
+	padding-top: 1.1rem;
+	font-family: 'Poiret One';
+	font-size: 80px;
+	color: white;
+	font-weight: bold;
+}
+
+#web_stuff {
+	padding-left: 1rem;
+	padding-top: 0;
+	font-family: 'Poiret One';
+	font-size: 25px;
+	color: white;
+	font-weight: bold;
+}
+
+#site_top_box {
+	background-color: RGBa(0, 0, 0, 0.3);
+	padding: 1rem;
+	width: 24rem;
+	height: 10rem;
+	margin-top: 2rem;
+	margin-left: 2rem;
+}
+
+.grid_div {
+	display: block;
+	background-color: rgba(0, 0, 0, 0.3);
+	width: 15rem;
+	height: 15rem;
+}
+
+.grid_div:hover {
+	background-color: rgba(255, 255, 255, 0.3);
+}
+
+#first_div {
+	margin-left: 2rem;
+	margin-top: 2rem;
+	text-align: center;
+	padding: 2rem;
+}
+
+.project_title {
+	font-size: 20px;
+	color: white;
+	font-family: 'Abel', sans-serif;
+}
+
+.thumbnail {
+	width: 13rem;
+	height: 13rem;
+	margin-top: 0.5rem;
+}
+
+a {
+	text-decoration: none;
+}

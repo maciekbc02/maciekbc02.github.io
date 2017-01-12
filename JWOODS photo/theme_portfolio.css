@@ -1,0 +1,119 @@
+/* CSS Document */
+
+.portfolio {
+	background-image: url(Background3.png);
+	box-sizing: border-box;
+	max-width: 100%;
+	margin: 0 auto;
+	overflow: hidden;
+	position: relative;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+	display: block;
+	height: 100vh;
+}
+
+#portfolio_header {
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+	display: block;
+}
+
+#portfolio_ul {
+	list-style-type: none;
+	padding: 0;
+    margin: auto;
+	margin-top: 1rem;
+	display: table;
+}
+
+.portfolio_li {
+	width: auto;
+	display: inline-block;
+	list-style: none;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 20px;
+	list-style-type: none;
+	padding: 1rem;
+	float: left;
+}
+
+.portfolio_li a {
+	text-decoration: none;
+	color: white;
+}
+
+.portfolio_li a:hover {
+	text-decoration: underline;
+}
+
+#portfolio_line {
+	width: auto;
+	color: white;
+}
+
+#portfolio_div {
+	list-style-type: none;
+	padding: 0;
+    margin: auto;
+	margin-top: 2rem;
+	display: table;
+}
+
+.portfolio h1 {
+	color: white;
+	font-size: 3rem;
+	font-family: 'Josefin Sans', sans-serif;
+	text-align: center;
+	padding-top: 3rem;
+}
+
+#imagegrid {
+	padding-top: 2rem;
+	font-size: 0;
+	width: 1495px;
+	margin: 0 auto;
+}
+
+#imagegrid img {
+	margin: 10px;
+	margin-top: 10;
+}
+
+#scrollDown3 {
+	display: table;
+	box-sizing: border-box;
+	max-width: 100%;
+	margin: 0 auto;
+	overflow: hidden;
+	position: relative;
+	padding-top: 3rem;
+}
+
+#scrollDown3 a {
+	color: white;
+	font-size: 1.2rem;
+	font-family: 'Josefin Sans', sans-serif;
+	float: left;
+}
+
+.arrow_down {
+	display: block;
+	box-sizing: border-box;
+	max-width: 100%;
+	margin: 0 auto;
+	overflow: hidden;
+	margin-top: 1rem;
+	padding-bottom: 50rem;
+	position: relative;
+	text-align: center;
+}
+
+
+
