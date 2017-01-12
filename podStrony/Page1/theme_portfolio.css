@@ -49,6 +49,10 @@
 	color: white;
 }
 
+.portfolio_li a:hover {
+	text-decoration: underline;
+}
+
 #portfolio_line {
 	width: auto;
 	color: white;

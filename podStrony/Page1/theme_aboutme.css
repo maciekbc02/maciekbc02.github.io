@@ -49,6 +49,10 @@
 	color: black;
 }
 
+.about_li a:hover {
+	text-decoration: underline;
+}
+
 #line2 {
 	width: auto;
 	display: inline-block;
